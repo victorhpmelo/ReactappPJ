@@ -1,0 +1,28 @@
+input ,select{
+  display: inline-flex;
+  margin: 50px;
+  flex-direction: row;
+}
+
+input#Valor {
+  width: 200px;
+  padding: 24px;
+  background: rgb(72, 175, 72);
+  font-size: 16px;
+}
+input#Descricao {
+  width: 200px;
+  padding: 24px;
+  background: rgb(72, 175, 72);
+  font-size: 16px;  
+}
+
+select{
+    width: 200px;
+    padding: 24px;
+    background: rgb(72, 175, 72);
+    font-size: 16px;
+    outline: solid;
+    outline-width: 1px;
+  }
+  

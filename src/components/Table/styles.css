@@ -1,0 +1,35 @@
+.ColunaAcao{
+  background:transparent ;
+  border: none;
+}
+
+.ColunaHorario{
+ width:auto ;
+
+}
+.ColunaDesc{
+  margin:auto ;
+}
+.ColunaValor{
+  width:280px;
+}
+
+.ColunaTipo{
+  width:200px ;
+
+}
+.ColunaApagar{
+  width: 100px;
+}
+
+table{
+  font-size: 28px;
+  width: 75%;
+  padding: 20px 0;
+
+}
+th{
+  text-align: start;
+  border-bottom: inset;
+  padding-bottom: 5px;
+}
